@@ -123,12 +123,12 @@ The project is developed collaboratively, with different team members responsibl
 
 | Team Member | Responsibility |
 |---|---|
-| Dhruv Saxena | Dashboard Module |
-| Team Member 2 | Courses Module |
-| Team Member 3 | Assignments Module |
-| Team Member 4 | Profile Module |
+| Chanchal | COURSES MODULE |
+| Dhruv Saxena | DASHBOARD MODULE |
+| Gautam | ASSIGNMENT MODULE |
+| Chanchal | Profile Module |
 
-*Replace the placeholder names with the actual names of your group members.*
+
 
 ## 🚀 How to Run the Project
 
